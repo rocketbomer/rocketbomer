@@ -4,8 +4,7 @@ my hands on schooling projects. Ranging from analyzing, cleaning, and simplifyin
 for any opportunity that comes.
 
 Most of my current experience comes from a background of a mix of trades with some working on motherboards and electrical wiring. But with some of the tech related ones where doing lot of data entry,
-quality checks, and pattern recognition. In my day to day life i practice some level of data analytics in my interests like Health and fitness, finances, market values of items, and video making.
-
+quality checks, and pattern recognition. In my day to day life i practice some level of data analytics in my interests like Health and fitness, finances, market values of items, and content creation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/je-joseph-edwards/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rocketbomer@gmail.com) 
