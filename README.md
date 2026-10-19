@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey, Joe here! I am a fresh graduate in the study of data analytics and currently looking to kickstart my career. Eagerly open to opportunities to build upon my experience with the skills learned from
-Triple Ten with their hands on schooling projects. Ranging from analyzing, cleaning, and simplifying data, to storytelling data supported insights. Continually sharpening and practicing my skills to be the most prepared
+TripleTen with their hands on schooling projects. Ranging from analyzing, cleaning, and simplifying data, to storytelling data supported insights. Continually sharpening and practicing my skills to be the most prepared
 for any opportunity that comes.
 
 Most of my current experience comes from a background of a mix of trades with some working on motherboards and electrical wiring. But with some of the tech related ones where doing lot of data entry,
