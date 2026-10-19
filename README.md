@@ -1,8 +1,7 @@
 # 💫 About Me:
-Hey, Joe here! I am a Data analyst graduate and currently looking to kickstart my career. Eagerly open to opportunities to build apron my experience with the skills learned from
-my hands schooling projects.
-Continually sharpening and practicing my skills to be the most prepared for any opportunity that comes.
-🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hey, Joe here! I am a fresh graduate in the study of data analytics and currently looking to kickstart my career. Eagerly open to opportunities to build apron my experience with the skills learned from
+my hands on schooling projects. Ranging from analyzing, cleaning, and simplifying data, to storytelling data supported insights.Continually sharpening and practicing my skills to be the most prepared
+for any opportunity that comes. Most of my experience comes from a background is not tech related but the ones that are I've did a lot of data entry.
 
 
 ## 🌐 Socials:
