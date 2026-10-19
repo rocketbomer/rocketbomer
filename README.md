@@ -1,7 +1,10 @@
 # 💫 About Me:
 Hey, Joe here! I am a fresh graduate in the study of data analytics and currently looking to kickstart my career. Eagerly open to opportunities to build apron my experience with the skills learned from
 my hands on schooling projects. Ranging from analyzing, cleaning, and simplifying data, to storytelling data supported insights.Continually sharpening and practicing my skills to be the most prepared
-for any opportunity that comes. Most of my experience comes from a background is not tech related but the ones that are I've did a lot of data entry.
+for any opportunity that comes.
+
+Most of my current experience comes from a background of a mix of trades with some working on motherboards and electrical wiring. But with some of the tech related ones where doing lot of data entry,
+quality checks, and pattern recognition. In my day to day life i practice some level of data analytics in my interests like Health and fitness, finances, market values of items, and video making.
 
 
 ## 🌐 Socials:
